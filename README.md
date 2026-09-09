@@ -1,16 +1,36 @@
-## Hi there 👋
+```text
+fellipecouto@github:~$ whoami
+fellipecouto
 
-<!--
-**fellipecouto/fellipecouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fellipecouto@github:~$ cat about.txt
+Fellipe Couto
+Systems Developer
 
-Here are some ideas to get you started:
+Backend developer focused on building reliable systems,
+APIs and developer tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fellipecouto@github:~$ cat stack.txt
+Backend        C# / .NET, Python, FastAPI
+Database       PostgreSQL, MySQL, SQL Server
+Frontend       React, TypeScript
+Infrastructure Docker, Linux, VPS
+CI/CD          GitHub Actions
+VCS            Git
+
+fellipecouto@github:~$ ls -la open-source/
+drwxr-xr-x  CipherCode
+drwxr-xr-x  ButtonControl
+drwxr-xr-x  PWMOutESP32
+drwxr-xr-x  ShiftOutMega
+drwxr-xr-x  MillisTimerLib
+drwxr-xr-x  MemoryLib
+
+fellipecouto@github:~$ git status
+On branch main
+nothing to commit, working tree clean
+
+fellipecouto@github:~$ uptime
+up and building
+
+fellipecouto@github:~$ _
+```
